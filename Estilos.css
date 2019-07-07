@@ -5,3 +5,24 @@ h1{
 	font-family: verdana;
 	color: #0E5C2F;
 }
+
+.Menu li{
+	padding: 7px;
+	background-color: #64A06F;
+	font-size:15px;
+	display: inline-block;
+}
+
+.Menu li:hover {
+	background-color: #FFFFFF;
+}
+
+ul li a{
+	text-decoration: none;
+	color:#FFFFFF;
+}
+
+div{
+	margin-top: 5px;
+}
+
