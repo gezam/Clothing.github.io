@@ -26,3 +26,11 @@ div{
 	margin-top: 5px;
 }
 
+.caja{
+	width: 40px;
+	height: 25px;
+	margin: 5px;
+	border-color: #434242;
+	background-color: #C8C4C4;
+ 
+}
